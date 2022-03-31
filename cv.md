@@ -16,6 +16,7 @@
 * Figma, Adobe Photoshop
 ## Code example
 Codewars kata: *write me a function that when given a number (n) returns the n-th number in the Fibonacci Sequence.*
+
 ```
 function nthFibo(n) {
 
@@ -27,6 +28,7 @@ function nthFibo(n) {
   
 }
 ```
+
 ## Projects
 * https://steglaset.github.io/visit.github.io/
 ## Education
