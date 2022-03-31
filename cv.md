@@ -1,7 +1,8 @@
 # Daniil Khlybov
 
 ## Junior Frontend-developer
-***
+
+
 ## Contacts
 * Location: Saint-Petersburg, Russia
 * Email: steglaset@gmail.com
