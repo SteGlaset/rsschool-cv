@@ -18,17 +18,11 @@
 * Figma, Adobe Photoshop
 
 ## Code example
-Codewars kata: *write me a function that when given a number (n) returns the n-th number in the Fibonacci Sequence.*
+Codewars kata: *You are writing a function that takes two sets of arguments of arbitrary length. The return value will be the sum of the values of all of the arguments.*
 
 ```
-function nthFibo(n) {
-
-  if (n <= 1) return 0;
-  
-  if (n == 2) return 1;
-  
-  else return nthFibo(n - 1) + nthFibo(n - 2);
-  
+function calculate (num, ...args) {
+  return args.length ? num + calculate(...args) : num;
 }
 ```
 
